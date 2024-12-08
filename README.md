@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing **FULL-STACK WEB DEVELOPER** and **COMPUTER ENGINEER STUDENT**
 - 👨‍💻 All of my projects are available at **[here][github]** 
 - 📫 How to reach me **mark.anis12@gmail.com**
-- ⚡ Fun fact **adrynaline junkie** 💘
+- ⚡ Fun fact **adrenaline junkie** 💘
 
 ## 😎 Connect with me
 
