@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/adityacprtm
+[linkedin]: https://linkedin.com/in/
 [instagram]: https://www.instagram.com/mark_magdy_1
 [github]: https://github.com/mark-magdy
 [facebook]: https://www.facebook.com/adityacprtm
