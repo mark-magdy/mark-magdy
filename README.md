@@ -1,6 +1,6 @@
 # Hi there, I'm Mark! 👋
 
-- 🌱 I’m currently doing **FULL-STACK WEB DEVELOPER** and **COMPUTER ENGINEER STUDENT**
+- 🌱 I’m currently doing **FULL-STACK WEB DEVELOPEMENT** and **COMPUTER ENGINEERING**
 - 👨‍💻 All of my projects are available at **[here][github]** 
 - 📫 How to reach me **mark.anis12@gmail.com**
 - ⚡ Fun fact **adrenaline junkie** 💘
